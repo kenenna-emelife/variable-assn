@@ -1,6 +1,6 @@
 // Add your code here
 let introduction = "hello,"
-let firstname = "kenenna"
+let firstname = "kenenna-is-handsome"
 let surname = "emelife"
 console.log(introduction+" "+firstname+" "+surname)
  let haircolor = "blue"
